@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config>
+
+	<Common>
+		<ChargingPressure>0.5</ChargingPressure>
+		<InitMainResPressure>0.9</InitMainResPressure>
+		<NoAir>0</NoAir>
+
+		<Title>ЭП2к-032 (резервом)</Title>
+		<Description>Пассажирский электровоз постоянного тока производства Коломенского завода</Description>
+	</Common>
+
+	<Vehicle>
+		<ModuleDir>ep2k</ModuleDir>
+		<Module>ep2k</Module>
+		<ModuleConfigDir>ep2k</ModuleConfigDir>
+		<ModuleConfig>ep2k-032</ModuleConfig>
+		<IsOrientationForward>1</IsOrientationForward>
+		<Count>1</Count>
+		<PayloadCoeff>1</PayloadCoeff>
+	</Vehicle>
+
+</Config>
